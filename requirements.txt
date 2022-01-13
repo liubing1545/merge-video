@@ -5,7 +5,7 @@ idna==2.6
 imageio==2.3.0
 moviepy==0.2.3.4
 numpy==1.14.3
-Pillow==5.1.0
+Pillow==9.0.0
 requests==2.18.4
 tqdm==4.23.3
 urllib3==1.22
