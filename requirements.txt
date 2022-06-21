@@ -4,7 +4,7 @@ decorator==4.3.0
 idna==2.6
 imageio==2.3.0
 moviepy==0.2.3.4
-numpy==1.14.3
+numpy==1.22.0
 Pillow==5.1.0
 requests==2.18.4
 tqdm==4.23.3
